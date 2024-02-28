@@ -1,4 +1,4 @@
-![Logotipo](media\img_logoPersonal_az_sf.png)
+![Logotipo](media\img_logoPersonal.png)
 # Hola!, soy Cristal 👋
  
 Comencé mi aventura en el mundo de la programación a través del **bootcamp Full Sactk** de Factoría F5 y Google Imapact Challenge (850 h), continué participando en la piscina Discovery web Women´s Edition y en la **Piscina 42** en Madrid. 
